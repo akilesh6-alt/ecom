@@ -1,0 +1,6 @@
+{
+  "name": "Sprout & Wonder - Kids 0-10 Multi-Vendor Marketplace",
+  "description": "Curated multi-vendor kids e-commerce marketplace for ages 0-10, featuring verified vendors, age-stage filtering, child safety certifications, and seller hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
